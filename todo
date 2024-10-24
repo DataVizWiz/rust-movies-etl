@@ -1,0 +1,2 @@
+Extract JSON elements from fields, split ids into separate columns
+and create a separate lookup table.
